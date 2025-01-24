@@ -30,6 +30,3 @@ build nix from source with nix-build or how to get a development environment.
 - [NixOS Discourse](https://discourse.nixos.org/)
 - [IRC - #nixos on freenode.net](irc://irc.freenode.net/#nixos)
 
-## License
-
-Nix is released under the [LGPL v2.1](./COPYING).
